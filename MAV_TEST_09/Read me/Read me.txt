@@ -1,0 +1,13 @@
+
+
+    最新微四轴，加入了PWM捕捉、没有加入ADC电源电压监测
+	
+	主控芯片cpu：stm32f103cbt6      senor: mpu6050 
+
+    可以使用USART进行数据传输给上位机
+
+    进过测试  硬件I2C  和  I2C查询方式 都可以
+	
+	此版本 SPI  USART   PWM_IN   TImer   都可以
+	
+	PWM 输出依然是适用于微四轴！
