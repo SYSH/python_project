@@ -1,0 +1,1 @@
+E:\python_project\trunk\lovely python;[];['cdays_3_1.py', 'cdays_3_1.txt', 'cdays_3_2.txt', 'cdays_4_result.txt', 'cdays_4_test.py', 'cdays_4_test.txt', 'fileindex.txt']

@@ -1,0 +1,19 @@
+2015-07-24 21:25:281 hello world
+3 hello hello hello chinagoodbye
+goodbye
+goodbye
+
+Traceback (most recent call last):
+  File "C:\Users\Rui\Desktop\filedealing\file_stream.py", line 23, in <module>
+    print t
+ValueError: I/O operation on closed file
+2015-07-24 21:27:461 hello world
+3 hello hello hello chinagoodbye
+goodbye
+goodbye
+goodbye
+
+Traceback (most recent call last):
+  File "C:\Users\Rui\Desktop\filedealing\file_stream.py", line 23, in <module>
+    print t
+ValueError: I/O operation on closed file
